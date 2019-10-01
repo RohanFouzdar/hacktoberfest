@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name : [ROHAN FOUZDAR] (https://github.com/RohanFouzdar)
+-Place: Kolkata, India
+-Bio: In search of a tee
+
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
